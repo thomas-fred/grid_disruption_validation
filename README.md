@@ -18,9 +18,13 @@ It was run with data characterising the Maria stormtrack, processed into the
 same format as the synthetic IBTrACS data that open-gira has been designed to
 operate on (see `input` for this file).
 
+### View outputs
+
 To plot some of the outputs (target files) see the `compare_thresholds.ipynb`
 notebook. A `requirements.txt` file specifies the environment required to run
 the notebook.
+
+### Recreate outputs
 
 To (maybe) recreate this analysis:
 - Clone the open-gira repository
