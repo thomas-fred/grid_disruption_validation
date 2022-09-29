@@ -1,0 +1,6 @@
+# notebook cruft
+.ipynb_checkpoints
+
+# QGIS cruft
+*.gpkg-shm
+*.gpkg-wal
