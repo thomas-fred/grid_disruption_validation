@@ -21,7 +21,7 @@ operate on (see `input` for this file).
 ### View outputs
 
 To plot some of the outputs (target files) see the `compare_thresholds.ipynb`
-notebook. A `requirements.txt` file specifies the environment required to run
+notebook. An `environment.yml` file specifies the environment required to run
 the notebook.
 
 ### Recreate outputs
